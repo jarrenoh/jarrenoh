@@ -1,4 +1,4 @@
-### Nothing to see here
+### Year 1 Business Analytics Student @ National University of Singapore
 
 <!--
 **jarrenoh/jarrenoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
