@@ -1,5 +1,5 @@
 ### Hi I'm Jarren, a Year 2 Business Analytics Student @ National University of Singapore
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajarrenoh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarrenoh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jarrenoh/jarrenoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
