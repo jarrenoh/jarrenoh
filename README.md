@@ -12,8 +12,6 @@ Supporting the Whole-of-Government rollout of AI coding assistants (Claude Code,
 **DOKU (PT Nusa Satu Inti Artha)** · Strategy & Investment Intern · Jakarta · Jul – Dec 2025
 Built a monthly SQL and Pandas pipeline over settlement data from 3,000+ merchants that flagged those eligible for working capital loans; credit product adoption rose 30%. Researched Southeast Asian digital payments and lending, and Indonesia's point-of-sale market, to support pricing and go-to-market planning. Reported to the VP of Strategy & Investment.
 
-**Jalan Journey** · Data Analyst · Singapore · Aug 2024 – May 2025
-Measured programme impact for a student-facing initiative reaching 500+ students and turned the analysis into design changes, coordinating across teams and external stakeholders to keep delivery on schedule.
 
 ## Projects
 
