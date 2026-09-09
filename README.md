@@ -16,7 +16,7 @@ Built a monthly SQL and Pandas pipeline over settlement data from 3,000+ merchan
 ## Projects
 
 **[AI-Powered SEC Filing Assistant](https://github.com/niclow236/bt4103-team8-sec-filing-assistant)** · Python
-Final-year capstone, leading a team of six. Retrieval-augmented question answering over SEC 10-K filings, where every answer cites the passage it came from or says the filings do not answer the question. The ingestion pipeline is built and verified against EDGAR: 50 filings, 10 companies, 10,371 passages, none that fails to build a full citation. Hybrid retrieval, generation and evaluation are in progress.
+Final-year capstone, leading a team of six. Retrieval-augmented question answering over SEC 10-K filings, where every answer cites the passage it came from or says the filings do not answer the question. The ingestion pipeline is built and verified against EDGAR: 50 filings, 10 companies, 16,264 passages, none that fails to build a full citation. Hybrid retrieval, generation and evaluation are in progress.
 
 **[nuShower](https://github.com/jarrenoh/nuShower)** · React Native, Firebase
 Hack&Roll 2025. Shower-accountability app with streaks, a leaderboard and a campus shower locator.
